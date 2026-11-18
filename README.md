@@ -1,5 +1,5 @@
 # Instituto Elo
-
+<img width="1280" height="917" alt="Casalvideo-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/f981f383-0bc9-4ba8-83c7-6cdcfa10aa86" />
 Site conceitual de uma clínica fictícia de terapia de casal e vínculos, criado para portfólio. As pessoas, a clínica e as informações de contato são fictícias. As imagens foram geradas com IA.
 
 ## Executar localmente
