@@ -1,0 +1,9 @@
+{
+  "name": "instituto-elo-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site conceito para uma clínica fictícia de terapia de casal e vínculos.",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" }
+}
+
